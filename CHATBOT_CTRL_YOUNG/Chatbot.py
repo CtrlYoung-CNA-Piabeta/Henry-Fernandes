@@ -2,11 +2,11 @@ import random
 
 def saudacao(nome):
     frases = [
-        'Fala aí, CNPJoto! Aqui é o' + nome + '.',
+        'Fala aí, CNPJoto! Aqui é o ' + nome + '.',
         'Fala aí, borboleto! Aqui é o ' + nome + '.',
         'Olá! Me chamo' + nome + '. Em que posso ajudar?'
     ]
-    print(frases[random.randint(0,2)])
+    return(frases[random.randint(0,2)])
 
 def recebe_mensagem():
     msg = "Cliente: " + input("Cliente: ")
