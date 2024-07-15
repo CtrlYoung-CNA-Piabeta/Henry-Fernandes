@@ -1,0 +1,3 @@
+/nCliente: Tchau
+Chatbot: sai dessa/nCliente: asdfge7
+Chatbot: nada não/nCliente: Tudo bem?
