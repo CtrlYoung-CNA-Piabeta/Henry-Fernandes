@@ -1,0 +1,27 @@
+body {
+    background-color: gray;
+}
+
+div {
+    background-color: black;
+}
+
+#main_content {
+    color: antiquewhite;
+}
+
+.titulo {
+    color: blueviolet;
+}
+
+.mudar_de_cor:hover {
+    color: blueviolet;
+}
+
+.easter_egg {
+    color: black;
+}
+
+.easter_egg:hover {
+    color: blueviolet;
+}
