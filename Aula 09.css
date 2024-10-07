@@ -1,0 +1,27 @@
+#titulo {
+    color: blue;
+}
+
+.primeiro {
+    color: rgb(7, 135, 135);
+}
+
+.blue {
+    background-color: rgb(16, 79, 155);
+}
+
+.green {
+    background-color: rgb(7, 116, 80);
+}
+
+.yellow {
+    background-color: rgb(131, 131, 2);
+}
+
+.red {
+    background-color: rgb(132, 10, 10);
+}
+
+button {
+    color: white;
+}

@@ -1,0 +1,45 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background-color: rgb(29, 29, 29);
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+.box {
+    height: 1rem;
+    width: 15rem;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.primeira {
+    display: flex;
+    margin: 1rem;
+}
+
+.segunda {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+}
+
+#personagem {
+    background-color: white;
+    height: 30rem;
+    border-radius: 2rem;
+}
+
+.sec2 {
+    display: flex;
+}
+
+.vertical {
+    display: flex;
+}
