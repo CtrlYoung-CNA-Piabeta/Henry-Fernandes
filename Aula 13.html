@@ -1,0 +1,27 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=??, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        /* Crie um código que dê 3 opções ao usuário
+        e deixe ele escolher um delas (utilize switch e prompt) */
+        x = Number(prompt("Digite [1] para conversar com o atendente; \nDigite [2] para ver seu plano; \nDigite [3] para cancelar o procedimento."))
+        switch(x){
+            case 1:
+                alert("Redirecionando para o site de atendimento...")
+                break
+            case 2:
+                alert("Redirecionando para o site do seu plano...")
+                break
+            case 3:
+                alert("Cancelando Procedimento...")
+                break
+            default:
+                alert(x + " é inválido.")
+        }
+    </script>
+</body>
+</html>
